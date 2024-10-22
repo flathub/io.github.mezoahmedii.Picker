@@ -1,7 +1,7 @@
 {
   "id": "io.github.mezoahmedii.Picker",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "46",
+  "runtime-version": "47",
   "sdk": "org.gnome.Sdk",
   "command": "picker",
   "finish-args": [
@@ -31,7 +31,7 @@
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-          "tag": "v0.12.0"
+          "tag": "v0.14.0"
         }
       ]
     },
@@ -42,7 +42,7 @@
         {
           "type": "git",
           "url": "https://github.com/mezoahmedii/picker.git",
-          "tag": "v1.0.2"
+          "tag": "v1.1.1"
         }
       ]
     }
