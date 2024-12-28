@@ -25,7 +25,9 @@
     {
       "name": "blueprint-compiler",
       "buildsystem": "meson",
-      "cleanup": ["*"],
+      "cleanup": [
+        "*"
+      ],
       "sources": [
         {
           "type": "git",
@@ -41,7 +43,11 @@
         {
           "type": "git",
           "url": "https://github.com/mezoahmedii/picker.git",
-          "tag": "v1.2.0"
+          "tag": "v1.2.0",
+          "x-checker-data": {
+            "type": "git",
+            "tag-pattern": "^v([\\d.]+)$"
+          }
         }
       ]
     }
