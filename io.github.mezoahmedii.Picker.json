@@ -48,12 +48,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/mezoahmedii/picker.git",
-                    "tag": "v1.3.2",
+                    "tag": "v1.4.0",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
                     },
-                    "commit": "f64f1d45c3b8b929b5cb1432073f3439b5625db7"
+                    "commit": "cf50cbefd17eb39d0a4bbc8041c2ec7b106d8ac7"
                 }
             ]
         }
