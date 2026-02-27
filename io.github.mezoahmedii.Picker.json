@@ -32,12 +32,12 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/GNOME/blueprint-compiler",
-                    "tag": "v0.18.0",
+                    "tag": "v0.20.0",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
                     },
-                    "commit": "07c9c9df9cd1b6b4454ecba21ee58211e9144a4b"
+                    "commit": "aa5298cc1677cf855bd61f9671607362bd203f4f"
                 }
             ]
         },
