@@ -23,7 +23,7 @@
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
                     },
-                    "commit": "6988c677c20b35f84b1ad9bcabb3d8e2a4d166db"
+                    "commit": "1c8327a665244053f25c4fcb5859dad0ebf2434e"
                 }
             ]
         }
